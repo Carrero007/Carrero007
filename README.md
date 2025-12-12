@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/Carrero007/Carrero007/blob/output/github-contribution-grid-snake-dark.gif)
+
 
 <div align="center" style="background-color: #0d1117; padding: 20px;">
   <img src="(https://github.com/Carrero007/Carrero007/blob/output/github-contribution-grid-snake-dark.svg)" alt="snake animation" />
