@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/Carrero007/Carrero007/blob/output/github-contribution-grid-snake-dark.gif?palette=github-dark)
+![snake gif](https://github.com/Carrero007/Carrero007/blob/output/github-contribution-grid-snake-dark.gif?palette=github-dark&github&color_snake=orange)
 
 
 <!--
