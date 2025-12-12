@@ -38,12 +38,11 @@ jobs:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Add background to SVG
         run: |
-          sudo apt-get install -y librsvg2-bin
-          file="dist/github-contribution-grid-snake-dark.svg"
           if [ -f "dist/github-contribution-grid-snake-dark.svg" ]; then
             sed -i 's/<svg/<svg style="background-color:#0d1117"/' dist/github-contribution-grid-snake-dark.svg
+            echo "Background added successfully"
           else
-            echo "SVG file not found"
+            echo "SVG file not found, listing directory:"
             ls -la dist/
           fi
       - name: Show build status
