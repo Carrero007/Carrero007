@@ -45,6 +45,10 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Carrero007&layout=compact&theme=radical)
+
+
+---
 ## 📫 Como me encontrar
 
 <div align="center">
