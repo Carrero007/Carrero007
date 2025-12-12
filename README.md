@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Estudante+de+Desenvolvimento+de+Sistemas;Sempre+Aprendendo+Algo+Novo!)
 
 </div>
-----
+
 
 ![snake animation](https://raw.githubusercontent.com/Carrero007/Carrero007/output/github-snake-with-bg.svg)
 
