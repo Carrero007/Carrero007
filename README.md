@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-
-
-<div align="center" style="background-color: #0d1117; padding: 20px;">
-  <img src="(https://github.com/Carrero007/Carrero007/blob/output/github-contribution-grid-snake-dark.svg)" alt="snake animation" />
-</div>
+![snake gif](https://github.com/Carrero007/Carrero007/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Carrero007/Carrero007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
