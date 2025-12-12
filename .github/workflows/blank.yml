@@ -28,12 +28,10 @@ jobs:
       
       - name: Create SVG with black background
         run: |
-          width=$(grep -oP 'width="\K[^"]+' dist/github-contribution-grid-snake-dark.svg | head -1)
-          height=$(grep -oP 'height="\K[^"]+' dist/github-contribution-grid-snake-dark.svg | head -1)
-          cat > dist/github-snake-with-bg.svg << EOF
-          <svg xmlns="http://www.w3.org/2000/svg" width="$width" height="$height" viewBox="0 0 $width $height">
+          cat > dist/github-snake-with-bg.svg << 'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
             <rect width="100%" height="100%" fill="#0d1117"/>
-            <image href="github-contribution-grid-snake-dark.svg" width="$width" height="$height"/>
+            <image href="github-contribution-grid-snake-dark.svg" width="900" height="200"/>
           </svg>
           EOF
         
