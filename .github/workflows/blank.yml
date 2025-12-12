@@ -37,13 +37,20 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Cria essa bosta preta
+      - name: Create SVG with black background
         run: |
           sudo chown -R $USER:$USER dist/
-          cd dist
-          width=$(grep -oP 'width="\K[^"]+' github-contribution-grid-snake-dark.svg | head -1 || echo "900")
-          height=$(grep -oP 'height="\K[^"]+' github-contribution-grid-snake-dark.svg | head -1 || echo "200")
-          sed 's/<svg/<svg style="background:#0d1117"/' github-contribution-grid-snake-dark.svg > github-snake-with-bg.svg
+          python3 << 'PYTHON_EOF'
+          with open('dist/github-contribution-grid-snake-dark.svg', 'r') as f:
+              svg_content = f.read()
+          
+          # Adiciona o estilo de background diretamente na tag SVG
+          svg_with_bg = svg_content.replace('<svg', '<svg style="background-color:#0d1117;padding:10px"', 1)
+          
+          with open('dist/github-snake-with-bg.svg', 'w') as f:
+              f.write(svg_with_bg)
+          print("✅ SVG com fundo preto criado com sucesso!")
+          PYTHON_EOF
       
       - name: Show build status
         run: git status
