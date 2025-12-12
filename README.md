@@ -44,14 +44,6 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 </div>
 
 ---
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Carrero007&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-  
-</div>
-
----
 ## 📫 Como me encontrar
 
 <div align="center">
