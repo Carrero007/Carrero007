@@ -27,15 +27,7 @@ jobs:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Create SVG with black background
-        run: |
-          python3 << 'PYTHON'
-          svg_content = '''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
-            <rect width="100%" height="100%" fill="#0d1117"/>
-            <image href="github-contribution-grid-snake-dark.svg" width="900" height="200"/>
-          </svg>'''
-          with open('dist/github-snake-with-bg.svg', 'w') as f:
-              f.write(svg_content)
-          PYTHON
+        run: printf '%s\n' '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">' '<rect width="100%" height="100%" fill="#0d1117"/>' '<image href="github-contribution-grid-snake-dark.svg" width="900" height="200"/>' '</svg>' > dist/github-snake-with-bg.svg
         
       - name: Show build status
         run: git status
