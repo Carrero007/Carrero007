@@ -45,7 +45,7 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Carrero007&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 ## 📫 Como me encontrar
