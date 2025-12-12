@@ -6,9 +6,9 @@
 
 </div>
 
-
+<div align="center">
 ![snake animation](https://raw.githubusercontent.com/Carrero007/Carrero007/output/github-snake-with-bg.svg)
-
+</div>
 
 ## 🚀 Sobre Mim
 
