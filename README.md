@@ -50,13 +50,6 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
     <td>
       <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
     </td>
-    <td>
-      <div align="center" width="50%">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Carrero007&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=A855F7&area=true&area_color=A855F7)
-
-</div>
-    </td>
   </tr>
 </table>
 
@@ -80,7 +73,11 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ## 📈 Atividade
 
+<div align="center">
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Carrero007&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=A855F7&area=true&area_color=A855F7)
+
+</div>
 
 ---
 
