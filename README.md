@@ -71,11 +71,11 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
-## 🌐 Contribuições em 3D
+## 📈 Atividade
 
 <div align="center">
 
-![3D Contribution](https://raw.githubusercontent.com/Carrero007/Carrero007/main/profile-3d-contrib/profile-south-season-animate.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Carrero007&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=A855F7&area=true&area_color=A855F7)
 
 </div>
 
