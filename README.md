@@ -48,12 +48,12 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
       <img src="https://streak-stats.demolab.com?user=Carrero007&theme=dark&hide_border=true" height="150"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrero007&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
+      <img src="github-metrics.svg" alt="GitHub Metrics" width="50%"/>
     </td>
   </tr>
 </table>
 
-<img src="github-metrics.svg" alt="GitHub Metrics" width="50%"/>
+
 
 ![Commits](https://img.shields.io/github/commit-activity/y/Carrero007/Carrero007?style=for-the-badge&color=purple)
 
