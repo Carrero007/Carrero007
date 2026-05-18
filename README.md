@@ -53,7 +53,7 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
   </tr>
 </table>
 
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="github-metrics.svg" alt="GitHub Metrics" width="50%"/>
 
 ![Commits](https://img.shields.io/github/commit-activity/y/Carrero007/Carrero007?style=for-the-badge&color=purple)
 
