@@ -14,10 +14,8 @@
 
 Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar soluções inovadoras e resolver problemas complexos através da tecnologia. Adoro aprender novas linguagens e frameworks, e estou sempre em busca de novos desafios!
 
-- 🔭 Atualmente trabalhando em projetos **inovadores**
-- 🌱 Sempre aprendendo e evoluindo
-- 💬 Pergunte-me sobre **desenvolvimento web, backend, frontend**
-- ⚡ Curiosidade: Café é meu combustível ☕
+- Sempre aprendendo e evoluindo
+- Curiosidade: Café é meu combustível ☕
 
 ---
 
