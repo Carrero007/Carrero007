@@ -43,6 +43,16 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 -------
 
 <div align="center">
+
+  ![Estrelas](https://img.shields.io/github/stars/Carrero007?style=for-the-badge&color=yellow)
+  ![Seguidores](https://img.shields.io/github/followers/Carrero007?style=for-the-badge&color=blue)
+  ![Commits](https://img.shields.io/github/commit-activity/y/Carrero007/Carrero007?style=for-the-badge&color=green)
+
+</div>
+
+-------
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carrero007&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" height="150"/>
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=Carrero007&theme=dark" height="150"/>
