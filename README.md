@@ -43,11 +43,11 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 -------
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carrero007&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Carrero007&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" height="150"/>
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=Carrero007&theme=dark" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrero007&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrero007&layout=compact&theme=dark&cache_seconds=1800" height="150"/>
 </div>
 
 ---
