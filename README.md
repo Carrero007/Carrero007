@@ -36,7 +36,7 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
-## 🐍 Snake & 📊 Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
