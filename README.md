@@ -61,26 +61,6 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Carrero007&theme=dracula&row=1&column=6&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Carrero007&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=A855F7&area=true&area_color=A855F7)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💜 Obrigado pela visita!
