@@ -45,7 +45,7 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Carrero007&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="150"/>
+      <img src="https://streak-stats.demolab.com?user=Carrero007&theme=dark&hide_border=true" height="150"/>
     </td>
     <td>
       <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
