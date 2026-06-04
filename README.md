@@ -36,6 +36,16 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,mysql,js,css,html,c#,python,github"/>
+
+</div>
+
+---
+
 ## 📊 Estatísticas
 
 <div align="center">
