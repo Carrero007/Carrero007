@@ -45,9 +45,6 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 <table>
   <tr>
     <td>
-      ![Streak Stats](https://streak-stats.demolab.com?user=Carrero007&theme=dark&hide_border=true)
-    </td>
-    <td>
       <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
     </td>
   </tr>
