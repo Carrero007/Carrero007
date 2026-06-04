@@ -40,7 +40,7 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,mysql,js,css,html,c#,python,github"/>
+<img src="https://skillicons.dev/icons?i=php,mysql,js,css,html,c#,python,github,linux"/>
 
 </div>
 
