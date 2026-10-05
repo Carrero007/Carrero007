@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Inovação;Sempre+Aprendendo+Algo+Novo+☕)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Inovação;Sempre+Aprendendo+Algo+Novo)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-agostinho-carrero)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_pedro_carrero)
@@ -14,13 +14,13 @@
 
 ---
 
-## 👋 Sobre Mim
+## <img src="https://api.iconify.design/lucide/user.svg?color=%23a855f7" width="22" align="absmiddle" /> Sobre Mim
 
-Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar soluções inovadoras e resolver problemas complexos através da tecnologia. Adoro aprender novas linguagens e frameworks, e estou sempre em busca de novos desafios! Café é meu combustível ☕
+Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar soluções inovadoras e resolver problemas complexos através da tecnologia. Adoro aprender novas linguagens e frameworks, e estou sempre em busca de novos desafios. Café é meu combustível.
 
 ---
 
-## 🚀 Projetos em destaque
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a855f7" width="22" align="absmiddle" /> Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -29,7 +29,7 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
-## 🛠️ Tecnologias
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23a855f7" width="22" align="absmiddle" /> Tecnologias
 
 <div align="center">
 
@@ -39,12 +39,11 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
-## 📊 Estatísticas
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%23a855f7" width="22" align="absmiddle" /> Estatísticas
 
 <div align="center">
 
 ![snake animation](https://raw.githubusercontent.com/Carrero007/Carrero007/output/github-snake-with-bg.svg)
-
 
 ![Commits](https://img.shields.io/github/commit-activity/y/Carrero007/Carrero007?style=for-the-badge&color=purple)
 
@@ -54,7 +53,7 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 <div align="center">
 
-### 💜 Obrigado pela visita!
+### <img src="https://api.iconify.design/lucide/heart.svg?color=%23a855f7" width="22" align="absmiddle" /> Obrigado pela visita!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
