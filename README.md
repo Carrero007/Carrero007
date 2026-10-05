@@ -21,12 +21,12 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 ---
 
 ## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a855f7" width="22" align="absmiddle" /> Projetos em destaque
-
+<center>
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**AgroScan**](https://github.com/Carrero007/AgroScan) | Diagnóstico de doenças em plantas com visão computacional por IA (TCC) | C# · .NET · IA |
 | [**Cifra**](https://carrero007.github.io/financas/) | Web App inteligente de gestão financeira | JS · IA |
-
+</center>
 ---
 
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23a855f7" width="22" align="absmiddle" /> Tecnologias
