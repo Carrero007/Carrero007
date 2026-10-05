@@ -20,6 +20,15 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**AgroScan**](https://github.com/Carrero007/AgroScan) | Diagnóstico de doenças em plantas com visão computacional por IA (TCC) | C# · .NET · IA |
+| [**Cifra**](https://carrero007.github.io/financas/) | Web App inteligente de gestão financeira | JS · IA |
+
+---
+
 ## 🛠️ Tecnologias
 
 <div align="center">
@@ -35,15 +44,6 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 <div align="center">
 
 ![snake animation](https://raw.githubusercontent.com/Carrero007/Carrero007/output/github-snake-with-bg.svg)
-
-<table>
-  <tr>
-    <td>
-      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-    </td>
-  </tr>
-</table>
-
 
 
 ![Commits](https://img.shields.io/github/commit-activity/y/Carrero007/Carrero007?style=for-the-badge&color=purple)
