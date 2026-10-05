@@ -20,12 +20,11 @@ Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar solu
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,mysql,js,css,html,c#"/>
-<img src="https://skillicons.dev/icons?i=python,github,linux"/>
+<img src="https://skillicons.dev/icons?i=php,cs,dotnet,js,ts,react,html,css,mysql,python,github,linux"/>
 
 </div>
 
