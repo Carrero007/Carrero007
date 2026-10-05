@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 👋 Sobre Mim
 
 Sou estudante na área de desenvolvimento de sistemas, apaixonado por criar soluções inovadoras e resolver problemas complexos através da tecnologia. Adoro aprender novas linguagens e frameworks, e estou sempre em busca de novos desafios! Café é meu combustível ☕
 
