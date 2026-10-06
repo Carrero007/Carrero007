@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=Backend+%7C+Web+%7C+AI+Developer;C%23+%C2%B7+.NET+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Python)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-agostinho-carrero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-agostinho-carrero-a54361329/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_pedro_carrero)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroagostinhocarrero@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://carrero007.github.io/PORTIFOLIO/)
