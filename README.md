@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=Backend+%7C+Web+%7C+AI+Developer;C%23+%C2%B7+.NET+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Python)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=Backend+%7C+Web+%7C+AI+Developer;C%23+%C2%B7+.NET+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Python+%C2%B7+Azure)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-agostinho-carrero-a54361329/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_pedro_carrero)
@@ -16,7 +16,7 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%23a855f7" width="22" align="absmiddle" /> About Me
 
-Systems Development student focused on **backend, web applications and artificial intelligence**. I work mainly with **C#/.NET**, **Node.js**, **React**, **JavaScript/TypeScript** and **Python**, and I build my own projects, such as **AgroScan** (my capstone project, an agricultural diagnostics platform) and **Cifra** (an AI-powered personal finance app).
+Systems Development student focused on **backend, web applications and artificial intelligence**. I work mainly with **C#/.NET**, **Node.js**, **React**, **JavaScript/TypeScript** and **Python**, and I have hands-on experience with **Microsoft Azure**. I build my own projects, such as **AgroScan** (my capstone project, an agricultural diagnostics platform, finalist at the 14th 3M Institute Science and Technology Fair) and **Cifra** (an AI-powered personal finance app).
 
 ---
 
@@ -24,8 +24,8 @@ Systems Development student focused on **backend, web applications and artificia
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23a855f7" width="18" align="absmiddle" /> **AgroScan** | Full-stack agricultural diagnostics platform developed as my capstone project and selected as a finalist at the 2026 3M Institute Science and Technology Fair. | `C#` `.NET` `AI` | [Repository](https://github.com/Carrero007/AgroScan) |
-| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23a855f7" width="18" align="absmiddle" /> **Cifra** | Smart web app for personal finance management, with AI-powered features. | `JavaScript` `AI` | [Demo](https://carrero007.github.io/financas/) |
+| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23a855f7" width="18" align="absmiddle" /> **AgroScan** | Full-stack agricultural diagnostics platform for pests and diseases in vegetable crops, using AI. Capstone project, finalist at the 14th 3M Institute Science and Technology Fair (2026), Agricultural Sciences category. | `C#` `.NET` `SQL Server` `JavaScript` `AI` | [Repository](https://github.com/Carrero007/AgroScan) |
+| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23a855f7" width="18" align="absmiddle" /> **Cifra** | Smart web app for personal finance management, with AI-powered features. | `JavaScript` `PWA` `AI` | [Demo](https://carrero007.github.io/financas/) |
 
 ---
 
@@ -35,7 +35,8 @@ Systems Development student focused on **backend, web applications and artificia
 |---|---|
 | **Backend** | <img src="https://skillicons.dev/icons?i=cs" width="30" /> <img src="https://skillicons.dev/icons?i=dotnet" width="30" /> <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> <img src="https://skillicons.dev/icons?i=php" width="30" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=js" width="30" /> <img src="https://skillicons.dev/icons?i=ts" width="30" /> <img src="https://skillicons.dev/icons?i=react" width="30" /> <img src="https://skillicons.dev/icons?i=html" width="30" /> <img src="https://skillicons.dev/icons?i=css" width="30" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql" width="30" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql" width="30" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=azure" width="30" /> |
 | **AI / Data** | <img src="https://skillicons.dev/icons?i=python" width="30" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git" width="30" /> <img src="https://skillicons.dev/icons?i=github" width="30" /> <img src="https://skillicons.dev/icons?i=linux" width="30" /> |
 
