@@ -24,7 +24,7 @@ Systems Development student focused on **backend, web applications and artificia
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23a855f7" width="18" align="absmiddle" /> **AgroScan** | Full-stack agricultural diagnostics platform, built as my capstone project. | `C#` `.NET` `AI` | [Repository](https://github.com/Carrero007/AgroScan) |
+| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23a855f7" width="18" align="absmiddle" /> **AgroScan** | Full-stack agricultural diagnostics platform developed as my capstone project and selected as a finalist at the 2026 3M Institute Science and Technology Fair. | `C#` `.NET` `AI` | [Repository](https://github.com/Carrero007/AgroScan) |
 | <img src="https://api.iconify.design/lucide/wallet.svg?color=%23a855f7" width="18" align="absmiddle" /> **Cifra** | Smart web app for personal finance management, with AI-powered features. | `JavaScript` `AI` | [Demo](https://carrero007.github.io/financas/) |
 
 ---
