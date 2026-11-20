@@ -22,8 +22,8 @@ Systems Development student focused on **backend, web applications and artificia
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23a855f7" width="18" align="absmiddle" /> **AgroScan** | Full-stack agricultural diagnostics platform for pests and diseases in vegetable crops, using AI. Capstone project, finalist at the 14th 3M Institute Science and Technology Fair (2026), Agricultural Sciences category. | `C#` `.NET` `SQL Server` `JavaScript` `AI` | [Repository](https://github.com/Carrero007/AgroScan) |
-| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23a855f7" width="18" align="absmiddle" /> **Cifra** | Smart web app for personal finance management, with AI-powered features. | `JavaScript` `PWA` `AI` | [Demo](https://carrero007.github.io/financas/) |
+| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23a855f7" width="15" align="absmiddle" /> **AgroScan** | Full-stack agricultural diagnostics platform for pests and diseases in vegetable crops, using AI. Capstone project, finalist at the 14th 3M Institute Science and Technology Fair (2026), Agricultural Sciences category. | `C#` `.NET` `SQL Server` `JavaScript` `AI` | [Repository](https://github.com/Carrero007/AgroScan) |
+| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23a855f7" width="15" align="absmiddle" /> **Cifra** | Smart web app for personal finance management, with AI-powered features. | `JavaScript` `PWA` `AI` | [Demo](https://carrero007.github.io/financas/) |
 
 ---
 
