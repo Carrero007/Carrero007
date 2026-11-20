@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&fontSize=42&fontColor=fff&animation=twinkling"/>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=Backend+%7C+Web+%7C+AI+Developer;C%23+%C2%B7+.NET+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Python+%C2%B7+Azure)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-agostinho-carrero-a54361329/)
@@ -58,6 +56,5 @@ Systems Development student focused on **backend, web applications and artificia
 
 ### <img src="https://api.iconify.design/lucide/heart.svg?color=%23a855f7" width="22" align="absmiddle" /> Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 </div>
